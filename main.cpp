@@ -1,5 +1,5 @@
 #include "Store.h"
-#include "ccc.h"
+#include "Item.h"
 #include "fstream"
 #include "outputFile.h"
 #include <algorithm>
@@ -25,7 +25,7 @@ int main() {
 
   ////////////////////////////// Second Part///////////
 
-  std::ifstream inputFile("ccc.txt");
+  std::ifstream inputFile("item.txt");
 
   vector<Item> newItem;
   std::string line;

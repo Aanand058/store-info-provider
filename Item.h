@@ -1,5 +1,5 @@
-#ifndef SDDS_CCC_H__
-#define SDDS_CCC_H__
+#ifndef SDDS_ITEM_H__
+#define SDDS_ITEM_H__
 
 #include <cstring>
 #include <iostream>
