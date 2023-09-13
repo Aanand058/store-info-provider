@@ -1,0 +1,128 @@
+1	  50 TG - Volume Store 286
+3	  50 TG
+6	  50 TG
+24	  50 TG
+28	  60 TG - Construction
+38	  50 TG
+46	  50 TG
+49	  60 TG - Construction
+55	  50 TG
+68	  50 TG
+70	  50 TG - Construction
+72	  50 TG
+74	  50 TG - Road Closures
+81	  50 TG - Construction
+89	  50 TG
+97	  50 TG
+111	  60 TG
+115	  50 TG
+117	  50 TG - Construction
+120	  50 TG
+122	  50 TG
+132	  50 TG
+133	  50 TG - Construction
+142	  50 TG
+149	  50 TG
+150	  50 TG
+153	  50 TG - Road Closures
+155	  50 TG
+158	  60 TG - Construction
+159	  50 TG
+160	  50 TG - Construction
+162	  50 TG
+165	  No Time Guarantee
+170	  50 TG - Construction
+182	  50 TG
+184	  50 TG
+187	  60 TG - Road Closures
+202	  60 TG
+207	  No Time Guarantee
+212	  60 TG
+213	  60 TG
+218	  No Time Guarantee
+219	  60 TG - Construction
+224	  60 TG - Construction
+258	  50 TG - Lane Reduction
+264	  50 TG - Construction
+266	  50 TG
+269	  50 TG
+270	  60 TG - Construction
+276	  60 TG - Road Closures
+278	  50 TG
+279	  50 TG
+281	  50 TG
+289	  60 TG
+291	  50 TG
+296	  50 TG
+301	  50 TG - Construction
+305	  No Time Guarantee
+306	  50 TG - Road Closures
+307	  60 TG - Multiple Street Closures
+309	  50 TG - Construction
+310	  50 TG - Construction
+311	  NG - Road Closures
+312	  50 TG
+313	  No Time Guarantee
+314	  60 TG - Construction
+316	  60 TG - Road Closure
+318	  60 TG - Construction
+319	  60 TG
+320	  60 TG
+324	  60 TG - Road Closures
+331	  60 TG - Construction
+333	  50 TG
+335	  50 TG
+336	  60 TG
+338	  50 TG
+340	  50 TG - Road Closures
+341	  60 TG
+343	  50 TG - Construction
+346	  50 TG
+347	  NG - Road Closures
+348	  50 TG
+351	  60 TG
+385	  50 TG - Construction
+401	  50 TG - Construction
+402	  50 TG - Construction
+403	  50 TG - Constuction
+404	  No Time Guarantee
+405	  No Time Guarantee
+407	  50 TG
+408	  50 TG
+410	  No Time Guarantee
+413	  60 TG - Construction
+420	  No Time Guarantee
+459	  No Time Guarantee
+463	  60 TG - Construction
+475	  60 TG
+481	  50 TG
+506	  60 TG - Construction
+508	  50 TG
+509	  50 TG
+562	  60 TG - Construction
+585	  No Time Guarantee
+634	  50 TG
+635	  60 TG
+639	  50 TG - Construction
+652	  50 TG - Construction
+654	  60 TG
+657	  50 TG - Road Closures
+659	  50 TG
+664	  50 TG
+665	  60 TG
+678	  50 TG - Construction
+686	  60 TG - Construction
+690	  60 TG
+692	  60 TG - Road Closures
+693	  50 TG
+701	  50 TG - Road Closures
+702	  50 TG
+703	  50 TG
+705	  NG - Construction
+706	  50 TG
+708	  50 TG - Construction
+709	  60 TG - Road Closures
+710	  60 TG - Construction
+1224	  No Time Guarantee
+1246	  No Time Guarantee
+1265	  50 TG

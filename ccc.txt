@@ -1,0 +1,21 @@
+No Beer / Store offers Beer	  158
+No Butter Chicken, Butter Chicken Sauce	  305
+No Butter Chicken Sauce, Ground Beef	  337
+No Cauliflower Bites	  192
+No Classic Wings / Baked Panzerottis Only	  693,536,43
+No Classic Wings	  408,56,423,33,67
+No Funnel Cake Stix / NY Style Pepperoni Only	  211
+No Ice cream	  530
+No Ice cream / Restaurant does not offer Party Sized Pizzas	  537
+No Ice cream / 1 hour behind Toronto time	  635
+No Mushrooms / Store offers Beer	  680
+No Spinach	  224
+*NO CANCELLATIONS* Must Contact ROM / NY Style Pepperoni Only	  39
+*NO CANCELLATIONS* Must Contact ROM	  409, 681
+Baked Panzerottis Only	  59, 140, 401
+NY Style Pepperoni Only / Store offers Beer	  12, 19, 37, 70, 155, 160, 195, 271, 285, 296
+NY Style Pepperoni Only	  6, 13, 18, 22, 29, 36, 42, 43, 49, 50, 51, 64, 77, 78, 82, 86, 91, 92, 109, 118, 119, 132, 134, 135, 137, 141, 143, 146, 149, 180, 182, 187, 210, 213, 214, 220, 222, 223, 247, 249, 250, 259, 273, 277, 278, 281, 288, 289, 290, 293, 297, 298, 299, 511, 610, 638, 641, 648, 651, 652, 653, 656, 659, 663, 667, 670, 686, 691, 696, 697, 702, 703, 712
+Store accepts Trent Meal card	  148
+Store carries Paneer	  47, 687
+Store offers Beer	  1, 3, 16, 23, 25, 26, 27, 31, 32, 38, 61, 69, 95, 101, 110, 111, 117, 120, 152, 163, 164, 165, 166, 170, 174, 450, 451, 453, 454, 458, 459, 461, 462, 463, 464, 465, 551, 559, 563, 682, 688, 711
+Unable to accept UT meal cards at this time	  266
