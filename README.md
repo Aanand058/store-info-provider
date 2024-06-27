@@ -4,4 +4,8 @@ This application is designed to retrieve data from two distinct files. The first
 
 
 
+Command to Run in Terminal :
 
+Compile: ->  g++ -o main.exe Item.cpp main.cpp Store.cpp outputFile.cpp
+
+Run: -> ./main.exe 
